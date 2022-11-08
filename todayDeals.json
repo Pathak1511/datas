@@ -1,0 +1,535 @@
+{
+  "deal_docs": [
+    {
+      "deal_title": "Polk Audio speakers, subwoofers and sound bars",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/31XKaXUPjXL.jpg",
+      "app_sale_range": { "min": "119.4", "max": "161.4", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/2c88252e?showVariations=true",
+      "deal_start": "2022-11-08T08:00:00.000Z",
+      "deal_end": "2022-11-09T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Headlamp Flashlight Top Deal",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/415e5n3HPnL.jpg",
+      "app_sale_range": { "min": "5.94", "max": "31.99", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/d9de7b2f?showVariations=true",
+      "deal_start": "2022-11-08T08:00:00.000Z",
+      "deal_end": "2022-11-09T07:55:00.000Z"
+    },
+    {
+      "deal_title": "Amoretu's Women's T-shirts, Women's Dresses, and more",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/6174HwvrPRL.jpg",
+      "app_sale_range": { "min": "13.52", "max": "31.99", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/d20a7d5d",
+      "deal_start": "2022-11-08T08:00:00.000Z",
+      "deal_end": "2022-11-09T07:55:00.000Z"
+    },
+    {
+      "deal_title": "Sportneer Cycling and Recovery",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/41VoxSIBV7L.jpg",
+      "app_sale_range": { "min": "59.99", "max": "149.99", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/91c618d5?showVariations=true",
+      "deal_start": "2022-11-08T08:00:00.000Z",
+      "deal_end": "2022-11-09T07:55:00.000Z"
+    },
+    {
+      "deal_title": "74% off Highlights  - monthly subscription for kids",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/61kc-5cm12L.jpg",
+      "app_sale_range": { "min": 0, "max": 0, "currency": "" },
+      "deal_details_url": "https://www.amazon.com/b?node=30773717011",
+      "deal_start": "2022-11-08T08:00:00.000Z",
+      "deal_end": "2022-11-09T08:00:00.000Z"
+    },
+    {
+      "deal_title": "Fashion from Amazon Essentials",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/41qknQkjUxL.jpg",
+      "app_sale_range": { "min": "6.75", "max": "67.92", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/e9974f34?&searchAlias=fashion",
+      "deal_start": "2022-10-30T07:00:00.000Z",
+      "deal_end": "2023-01-01T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Fashion from Daily Ritual\t\t\t\t\t\t",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/41eGqLnTFzS.jpg",
+      "app_sale_range": { "min": "9.03", "max": "69.93", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/9f60f457?&searchAlias=fashion",
+      "deal_start": "2022-10-30T07:00:00.000Z",
+      "deal_end": "2023-01-01T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Prime Exclusive: Spend $50, save 20% on select Amazon brands",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/51USpBn6V7L.jpg",
+      "app_sale_range": { "min": 0, "max": 0, "currency": "" },
+      "deal_details_url": "https://www.amazon.com/promotion/psp/A1MA5JXIAX44K1",
+      "deal_start": "2022-09-20T07:00:00.000Z",
+      "deal_end": "2022-11-18T07:59:59.000Z"
+    },
+    {
+      "deal_title": "everydrop Water Filters",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/317c+XdM3jL.jpg",
+      "app_sale_range": { "min": 0, "max": 0, "currency": "" },
+      "deal_details_url": "https://www.amazon.com/deal/365214c3?showVariations=true",
+      "deal_start": "2022-11-03T07:00:00.000Z",
+      "deal_end": "2022-12-01T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Samsung Drives and Memory",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/319tuJTx93L.jpg",
+      "app_sale_range": { "min": "16.99", "max": "329.99", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/c21028ce?showVariations=true",
+      "deal_start": "2022-10-31T07:00:00.000Z",
+      "deal_end": "2022-11-14T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Fashion from Goodthreads\t\t\t\t\t\t",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/51L6CuGQ7bL.jpg",
+      "app_sale_range": { "min": "9.03", "max": "148.75", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/496ca02d?&searchAlias=fashion",
+      "deal_start": "2022-10-30T07:00:00.000Z",
+      "deal_end": "2023-01-01T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Beats Earbuds",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/41z-DBliUBL.jpg",
+      "app_sale_range": { "min": "99.95", "max": "179.95", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/5bcaaa5e?showVariations=true",
+      "deal_start": "2022-11-01T07:00:00.000Z",
+      "deal_end": "2022-11-17T04:55:00.000Z"
+    },
+    {
+      "deal_title": "Save on ASUS Laptops and Desktops",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/31oUWj8bamL.jpg",
+      "app_sale_range": {
+        "min": "249.99",
+        "max": "1099.99",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/90bbcfef?showVariations=true",
+      "deal_start": "2022-11-01T07:00:00.000Z",
+      "deal_end": "2022-11-15T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Keurig K-Mini Brewer",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/31jy5fSzyRL.jpg",
+      "app_sale_range": { "min": 0, "max": 0, "currency": "" },
+      "deal_details_url": "https://www.amazon.com/deal/4262661b?showVariations=true",
+      "deal_start": "2022-11-05T07:00:00.000Z",
+      "deal_end": "2022-11-13T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Select Furniture",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/51g3e38qaML.jpg",
+      "app_sale_range": { "min": "3.54", "max": "929.0", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/ca2ea4d9?showVariations=true",
+      "deal_start": "2022-11-04T15:00:00.000Z",
+      "deal_end": "2022-11-18T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Bowflex & Schwinn Home Gym Equipment ",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/41W4PXtZ7SS.jpg",
+      "app_sale_range": { "min": "119.0", "max": "799.0", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/11d82fd8?showVariations=true",
+      "deal_start": "2022-11-04T07:00:00.000Z",
+      "deal_end": "2022-11-30T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Lasko Heaters",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/41XB7hUiF1L.jpg",
+      "app_sale_range": { "min": "49.99", "max": "62.99", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/021cc104?showVariations=true",
+      "deal_start": "2022-10-26T07:00:00.000Z",
+      "deal_end": "2022-11-13T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Shure Headphones and Microphones",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/41DyRFZY7QL.jpg",
+      "app_sale_range": { "min": "35.0", "max": "799.0", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/d56b3366?showVariations=true",
+      "deal_start": "2022-11-01T07:00:00.000Z",
+      "deal_end": "2022-12-29T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Breville Smart Ovens ",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/3105TFeSS8L.jpg",
+      "app_sale_range": { "min": "127.95", "max": "319.95", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/43bc0318?showVariations=true",
+      "deal_start": "2022-11-07T08:00:00.000Z",
+      "deal_end": "2022-11-26T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Home storage, bath and more from Amazon brands",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/412Sb2yFG+L.jpg",
+      "app_sale_range": { "min": "6.39", "max": "195.38", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/e63386e4?showVariations=true",
+      "deal_start": "2022-10-29T07:00:00.000Z",
+      "deal_end": "2022-11-19T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Save on Fitbit products like NEW Sense 2 smartwatch",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/31Zi7+cb+lL.jpg",
+      "app_sale_range": { "min": "79.95", "max": "199.95", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/a2ba8575?showVariations=true",
+      "deal_start": "2022-10-31T07:00:00.000Z",
+      "deal_end": "2022-11-11T07:59:59.000Z"
+    },
+    {
+      "deal_title": "LG OLED and QNED TVs",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/51Cyjyin1nL.jpg",
+      "app_sale_range": {
+        "min": "696.99",
+        "max": "4796.99",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/58520573?showVariations=true",
+      "deal_start": "2022-11-07T08:00:00.000Z",
+      "deal_end": "2022-11-14T07:59:59.000Z"
+    },
+    {
+      "deal_title": "JBL True Wireless Headphones",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/31p1XCh0v9L.jpg",
+      "app_sale_range": { "min": "24.95", "max": "99.95", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/d3e47514?showVariations=true",
+      "deal_start": "2022-10-09T04:00:00.000Z",
+      "deal_end": "2022-11-21T04:55:00.000Z"
+    },
+    {
+      "deal_title": "Home Essentials from Lush Decor, Tempur-Pedic and more",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/41NjreyZcTL.jpg",
+      "app_sale_range": { "min": "3.61", "max": "509.15", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/b?node=24046284011",
+      "deal_start": "2022-11-01T07:00:00.000Z",
+      "deal_end": "2022-11-29T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Save on LEVOIT Humidifiers",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/31-h-2C7sOL.jpg",
+      "app_sale_range": { "min": "38.95", "max": "39.59", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/042b90ff?showVariations=true",
+      "deal_start": "2022-11-01T07:00:00.000Z",
+      "deal_end": "2022-11-15T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Save on Dreo Space Heater for Indoor Use, 1500W Fast Heating Ceramic Electric Heater with Thermostat, Remote, Overheating & Tip-Over Protection, 1-12H Timer, 70° Oscillating Portable Heater for Office Bedroom and more",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/41tU7Q6VwoL.jpg",
+      "app_sale_range": { "min": "67.49", "max": "76.49", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/s/browse/?ie=UTF8&node=12331105011",
+      "deal_start": "2022-10-31T07:00:00.000Z",
+      "deal_end": "2022-11-14T07:59:59.999Z"
+    },
+    {
+      "deal_title": "Polk Audio speakers, subwoofers and sound bars",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/31XKaXUPjXL.jpg",
+      "app_sale_range": { "min": "119.4", "max": "161.4", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/2c88252e?showVariations=true",
+      "deal_start": "2022-11-08T08:00:00.000Z",
+      "deal_end": "2022-11-09T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Headlamp Flashlight Top Deal",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/415e5n3HPnL.jpg",
+      "app_sale_range": { "min": "5.94", "max": "31.99", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/d9de7b2f?showVariations=true",
+      "deal_start": "2022-11-08T08:00:00.000Z",
+      "deal_end": "2022-11-09T07:55:00.000Z"
+    },
+    {
+      "deal_title": "Amoretu's Women's T-shirts, Women's Dresses, and more",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/6174HwvrPRL.jpg",
+      "app_sale_range": { "min": "13.52", "max": "31.99", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/d20a7d5d",
+      "deal_start": "2022-11-08T08:00:00.000Z",
+      "deal_end": "2022-11-09T07:55:00.000Z"
+    },
+    {
+      "deal_title": "Sportneer Cycling and Recovery",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/41VoxSIBV7L.jpg",
+      "app_sale_range": { "min": "59.99", "max": "149.99", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/91c618d5?showVariations=true",
+      "deal_start": "2022-11-08T08:00:00.000Z",
+      "deal_end": "2022-11-09T07:55:00.000Z"
+    },
+    {
+      "deal_title": "74% off Highlights  - monthly subscription for kids",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/61kc-5cm12L.jpg",
+      "app_sale_range": { "min": 0, "max": 0, "currency": "" },
+      "deal_details_url": "https://www.amazon.com/b?node=30773717011",
+      "deal_start": "2022-11-08T08:00:00.000Z",
+      "deal_end": "2022-11-09T08:00:00.000Z"
+    },
+    {
+      "deal_title": "Fashion from Amazon Essentials",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/41qknQkjUxL.jpg",
+      "app_sale_range": { "min": "6.75", "max": "67.92", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/e9974f34?&searchAlias=fashion",
+      "deal_start": "2022-10-30T07:00:00.000Z",
+      "deal_end": "2023-01-01T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Fashion from Daily Ritual\t\t\t\t\t\t",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/41eGqLnTFzS.jpg",
+      "app_sale_range": { "min": "9.03", "max": "69.93", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/9f60f457?&searchAlias=fashion",
+      "deal_start": "2022-10-30T07:00:00.000Z",
+      "deal_end": "2023-01-01T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Prime Exclusive: Spend $50, save 20% on select Amazon brands",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/51USpBn6V7L.jpg",
+      "app_sale_range": { "min": 0, "max": 0, "currency": "" },
+      "deal_details_url": "https://www.amazon.com/promotion/psp/A1MA5JXIAX44K1",
+      "deal_start": "2022-09-20T07:00:00.000Z",
+      "deal_end": "2022-11-18T07:59:59.000Z"
+    },
+    {
+      "deal_title": "everydrop Water Filters",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/317c+XdM3jL.jpg",
+      "app_sale_range": { "min": 0, "max": 0, "currency": "" },
+      "deal_details_url": "https://www.amazon.com/deal/365214c3?showVariations=true",
+      "deal_start": "2022-11-03T07:00:00.000Z",
+      "deal_end": "2022-12-01T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Samsung Drives and Memory",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/319tuJTx93L.jpg",
+      "app_sale_range": { "min": "16.99", "max": "329.99", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/c21028ce?showVariations=true",
+      "deal_start": "2022-10-31T07:00:00.000Z",
+      "deal_end": "2022-11-14T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Fashion from Goodthreads\t\t\t\t\t\t",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/51L6CuGQ7bL.jpg",
+      "app_sale_range": { "min": "9.03", "max": "148.75", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/496ca02d?&searchAlias=fashion",
+      "deal_start": "2022-10-30T07:00:00.000Z",
+      "deal_end": "2023-01-01T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Beats Earbuds",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/41z-DBliUBL.jpg",
+      "app_sale_range": { "min": "99.95", "max": "179.95", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/5bcaaa5e?showVariations=true",
+      "deal_start": "2022-11-01T07:00:00.000Z",
+      "deal_end": "2022-11-17T04:55:00.000Z"
+    },
+    {
+      "deal_title": "Save on ASUS Laptops and Desktops",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/31oUWj8bamL.jpg",
+      "app_sale_range": {
+        "min": "249.99",
+        "max": "1099.99",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/90bbcfef?showVariations=true",
+      "deal_start": "2022-11-01T07:00:00.000Z",
+      "deal_end": "2022-11-15T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Keurig K-Mini Brewer",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/31jy5fSzyRL.jpg",
+      "app_sale_range": { "min": 0, "max": 0, "currency": "" },
+      "deal_details_url": "https://www.amazon.com/deal/4262661b?showVariations=true",
+      "deal_start": "2022-11-05T07:00:00.000Z",
+      "deal_end": "2022-11-13T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Select Furniture",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/51g3e38qaML.jpg",
+      "app_sale_range": { "min": "3.54", "max": "929.0", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/ca2ea4d9?showVariations=true",
+      "deal_start": "2022-11-04T15:00:00.000Z",
+      "deal_end": "2022-11-18T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Bowflex & Schwinn Home Gym Equipment ",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/41W4PXtZ7SS.jpg",
+      "app_sale_range": { "min": "119.0", "max": "799.0", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/11d82fd8?showVariations=true",
+      "deal_start": "2022-11-04T07:00:00.000Z",
+      "deal_end": "2022-11-30T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Lasko Heaters",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/41XB7hUiF1L.jpg",
+      "app_sale_range": { "min": "49.99", "max": "62.99", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/021cc104?showVariations=true",
+      "deal_start": "2022-10-26T07:00:00.000Z",
+      "deal_end": "2022-11-13T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Shure Headphones and Microphones",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/41DyRFZY7QL.jpg",
+      "app_sale_range": { "min": "35.0", "max": "799.0", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/d56b3366?showVariations=true",
+      "deal_start": "2022-11-01T07:00:00.000Z",
+      "deal_end": "2022-12-29T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Breville Smart Ovens ",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/3105TFeSS8L.jpg",
+      "app_sale_range": { "min": "127.95", "max": "319.95", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/43bc0318?showVariations=true",
+      "deal_start": "2022-11-07T08:00:00.000Z",
+      "deal_end": "2022-11-26T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Home storage, bath and more from Amazon brands",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/412Sb2yFG+L.jpg",
+      "app_sale_range": { "min": "6.39", "max": "195.38", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/e63386e4?showVariations=true",
+      "deal_start": "2022-10-29T07:00:00.000Z",
+      "deal_end": "2022-11-19T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Save on Fitbit products like NEW Sense 2 smartwatch",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/31Zi7+cb+lL.jpg",
+      "app_sale_range": { "min": "79.95", "max": "199.95", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/a2ba8575?showVariations=true",
+      "deal_start": "2022-10-31T07:00:00.000Z",
+      "deal_end": "2022-11-11T07:59:59.000Z"
+    },
+    {
+      "deal_title": "LG OLED and QNED TVs",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/51Cyjyin1nL.jpg",
+      "app_sale_range": {
+        "min": "696.99",
+        "max": "4796.99",
+        "currency": "USD"
+      },
+      "deal_details_url": "https://www.amazon.com/deal/58520573?showVariations=true",
+      "deal_start": "2022-11-07T08:00:00.000Z",
+      "deal_end": "2022-11-14T07:59:59.000Z"
+    },
+    {
+      "deal_title": "JBL True Wireless Headphones",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/31p1XCh0v9L.jpg",
+      "app_sale_range": { "min": "24.95", "max": "99.95", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/d3e47514?showVariations=true",
+      "deal_start": "2022-10-09T04:00:00.000Z",
+      "deal_end": "2022-11-21T04:55:00.000Z"
+    },
+    {
+      "deal_title": "Home Essentials from Lush Decor, Tempur-Pedic and more",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/41NjreyZcTL.jpg",
+      "app_sale_range": { "min": "3.61", "max": "509.15", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/b?node=24046284011",
+      "deal_start": "2022-11-01T07:00:00.000Z",
+      "deal_end": "2022-11-29T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Save on LEVOIT Humidifiers",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/31-h-2C7sOL.jpg",
+      "app_sale_range": { "min": "38.95", "max": "39.59", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/deal/042b90ff?showVariations=true",
+      "deal_start": "2022-11-01T07:00:00.000Z",
+      "deal_end": "2022-11-15T07:59:59.000Z"
+    },
+    {
+      "deal_title": "Save on Dreo Space Heater for Indoor Use, 1500W Fast Heating Ceramic Electric Heater with Thermostat, Remote, Overheating & Tip-Over Protection, 1-12H Timer, 70° Oscillating Portable Heater for Office Bedroom and more",
+      "deal_main_image_url": "https://m.media-amazon.com/images/I/41tU7Q6VwoL.jpg",
+      "app_sale_range": { "min": "67.49", "max": "76.49", "currency": "USD" },
+      "deal_details_url": "https://www.amazon.com/s/browse/?ie=UTF8&node=12331105011",
+      "deal_start": "2022-10-31T07:00:00.000Z",
+      "deal_end": "2022-11-14T07:59:59.999Z"
+    }
+  ],
+  "products_docs": [
+    {
+      "product_title": "Apple AirPods Pro (2nd Generation)",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/2110TEYPKnL.jpg",
+      "app_sale_price": "234.0",
+      "app_sale_range": { "min": 0, "max": 0, "currency": "" },
+      "app_sale_price_currency": "USD",
+      "product_detail_url": "https://www.amazon.com/Apple-Generation-Cancelling-Personalized-Customizable/dp/B0BDHWDR12",
+      "product_id": "B0BDHWDR12",
+      "original_price": "249.0",
+      "deal_start": "2022-11-06T07:00:00.000Z",
+      "deal_end": "2022-11-13T04:55:00.000Z"
+    },
+    {
+      "product_title": "Dog Shaver Clippers Low Noise Rechargeable Cordless Electric Quiet Hair Clippers Set for Dogs Cats Pets-1a",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/51HyTjFJy5L.jpg",
+      "app_sale_price": "",
+      "app_sale_range": { "min": "30.59", "max": "1083.0", "currency": "USD" },
+      "app_sale_price_currency": "",
+      "product_detail_url": "https://www.amazon.com/Shaver-Clippers-Rechargeable-Cordless-Electric/dp/B0BFPNLCHB",
+      "product_id": "B0BFPNLCHB",
+      "original_price": "",
+      "deal_start": "2022-11-07T08:00:00.000Z",
+      "deal_end": "2022-11-14T07:45:00.000Z"
+    },
+    {
+      "product_title": "Earbuds Bluetooth 5.0 Mini Headphones, Hi-Fi Stereo in-Ear Earphones, Touch Control, IPX5 Waterproof Headset with LED Display Built-in Mic",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/51lR4B7y6pL.jpg",
+      "app_sale_price": "19.99",
+      "app_sale_range": { "min": 0, "max": 0, "currency": "" },
+      "app_sale_price_currency": "USD",
+      "product_detail_url": "https://www.amazon.com/Earbuds-Bluetooth-Headphones-Earphones-Waterproof/dp/B0BCXPQN4J",
+      "product_id": "B0BCXPQN4J",
+      "original_price": "50.0",
+      "deal_start": "2022-11-07T08:00:00.000Z",
+      "deal_end": "2022-11-14T07:45:00.000Z"
+    },
+    {
+      "product_title": "TOLOCO Massage Gun, Upgrade Percussion Muscle Massage Gun for Athletes, Handheld Deep Tissue Massager, Black",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41ecpbQl2FL.jpg",
+      "app_sale_price": "",
+      "app_sale_range": { "min": "69.99", "max": "69.99", "currency": "USD" },
+      "app_sale_price_currency": "",
+      "product_detail_url": "https://www.amazon.com/TOLOCO-Massage-Gun-Upgraded-Brushless/dp/B083L8RNJR",
+      "product_id": "B083L8RNJR",
+      "original_price": "",
+      "deal_start": "2022-11-07T08:00:00.000Z",
+      "deal_end": "2022-11-14T07:45:00.000Z"
+    },
+    {
+      "product_title": "Apple AirPods Pro (2nd Generation)",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/2110TEYPKnL.jpg",
+      "app_sale_price": "234.0",
+      "app_sale_range": { "min": 0, "max": 0, "currency": "" },
+      "app_sale_price_currency": "USD",
+      "product_detail_url": "https://www.amazon.com/Apple-Generation-Cancelling-Personalized-Customizable/dp/B0BDHWDR12",
+      "product_id": "B0BDHWDR12",
+      "original_price": "249.0",
+      "deal_start": "2022-11-06T07:00:00.000Z",
+      "deal_end": "2022-11-13T04:55:00.000Z"
+    },
+    {
+      "product_title": "Dog Shaver Clippers Low Noise Rechargeable Cordless Electric Quiet Hair Clippers Set for Dogs Cats Pets-1a",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/51HyTjFJy5L.jpg",
+      "app_sale_price": "",
+      "app_sale_range": { "min": "30.59", "max": "1083.0", "currency": "USD" },
+      "app_sale_price_currency": "",
+      "product_detail_url": "https://www.amazon.com/Shaver-Clippers-Rechargeable-Cordless-Electric/dp/B0BFPNLCHB",
+      "product_id": "B0BFPNLCHB",
+      "original_price": "",
+      "deal_start": "2022-11-07T08:00:00.000Z",
+      "deal_end": "2022-11-14T07:45:00.000Z"
+    },
+    {
+      "product_title": "Earbuds Bluetooth 5.0 Mini Headphones, Hi-Fi Stereo in-Ear Earphones, Touch Control, IPX5 Waterproof Headset with LED Display Built-in Mic",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/51lR4B7y6pL.jpg",
+      "app_sale_price": "19.99",
+      "app_sale_range": { "min": 0, "max": 0, "currency": "" },
+      "app_sale_price_currency": "USD",
+      "product_detail_url": "https://www.amazon.com/Earbuds-Bluetooth-Headphones-Earphones-Waterproof/dp/B0BCXPQN4J",
+      "product_id": "B0BCXPQN4J",
+      "original_price": "50.0",
+      "deal_start": "2022-11-07T08:00:00.000Z",
+      "deal_end": "2022-11-14T07:45:00.000Z"
+    },
+    {
+      "product_title": "TOLOCO Massage Gun, Upgrade Percussion Muscle Massage Gun for Athletes, Handheld Deep Tissue Massager, Black",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41ecpbQl2FL.jpg",
+      "app_sale_price": "",
+      "app_sale_range": { "min": "69.99", "max": "69.99", "currency": "USD" },
+      "app_sale_price_currency": "",
+      "product_detail_url": "https://www.amazon.com/TOLOCO-Massage-Gun-Upgraded-Brushless/dp/B083L8RNJR",
+      "product_id": "B083L8RNJR",
+      "original_price": "",
+      "deal_start": "2022-11-07T08:00:00.000Z",
+      "deal_end": "2022-11-14T07:45:00.000Z"
+    }
+  ],
+  "sessionId": "132-9452640-1338936"
+}
